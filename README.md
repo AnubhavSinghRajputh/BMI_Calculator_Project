@@ -4,6 +4,8 @@ A new Flutter project.
 
 ## Getting Started
 
+![image alt](https://github.com/AnubhavSinghRajputh/BMI_Calculator_Project/blob/235069675fb713497843d935e52061592e4601e9/Screenshot%202026-01-14%20135716.png)
+
 This project is a starting point for a Flutter application.
 
 A few resources to get you started if this is your first Flutter project:
