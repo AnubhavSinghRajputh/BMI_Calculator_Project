@@ -8,13 +8,3 @@ A new Flutter project.
 ![image alt](https://github.com/AnubhavSinghRajputh/BMI_Calculator_Project/blob/6ecb7de03bcc26d764a90d38c9f50d0835996b04/Screenshot%202026-01-14%20135758.png)
 ![image alt](https://github.com/AnubhavSinghRajputh/BMI_Calculator_Project/blob/798828abdb2d9895e1d2edb29e8294234d0ea781/Screenshot%202026-01-14%20135825.png)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
